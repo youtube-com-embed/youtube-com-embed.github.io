@@ -6,13 +6,9 @@
    "author_url": "https://youtube-com-embed.github.io/",
 
    "provider_name": "YouTube",
-   "provider_url": "https://youtube-com-embed.github.io/",
-   "html": "<iframe src=\"https://youtube-com-embed.github.io\" width=\"640\" height=\"480\"></iframe>",
-   "width":600,
-   "height":600
-
-
+   "provider_url": "https://youtube-com-embed.github.io/"
 }
+
 
 
 
